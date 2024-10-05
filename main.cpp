@@ -58,7 +58,7 @@ int main()
 {
 	// Uncomment line below to use your BrowserHistory interactively.
 	// 
-	interactive_mode();
+	//interactive_mode();
 
 
 	// Comments below indicate the current (expected) state of the history.
